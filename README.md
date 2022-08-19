@@ -1,12 +1,12 @@
 # EEE 6608: Machine Learning & Pattern Recognition
 
-This repository contains the code & reports of the projects (midterm and final) given in the course.
+This repository contains the codes & reports of the projects (midterm and final) given by the course teacher in the course.
 
-**Midterm project**: Implementing logistic regression and fully connected neural network from scratch
+- ***Midterm project***: Implementing logistic regression and fully connected neural network from scratch
   
   - Dataset: Happy house dataset from Coursera
 
-**Final project**: Implementing K-means clustering algorithm from scratch
+- ***Final project***: Implementing K-means clustering algorithm from scratch
   
   - Dataset: Digits dataset from scikit learn
   
