@@ -15,4 +15,3 @@ Topics covered:
 - Support vector machine
 - K-means clustering
 - Principal component analysis
-Code and report of the final project of MSc course "Machine Learning &amp; Pattern Recognition"
