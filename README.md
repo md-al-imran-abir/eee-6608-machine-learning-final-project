@@ -12,7 +12,7 @@ This repository contains the codes & reports of the projects (midterm and final)
   
 Course teacher: [Dr. Hafiz Imtiaz](http://hafizimtiaz.buet.ac.bd/), Associate Professor, [Dept of EEE](https://eee.buet.ac.bd/), BUET
 
-Topics covered:
+Topics covered in the course:
 - Linear regression
 - Logistic regression
 - Neural networks
